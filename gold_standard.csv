@@ -1,0 +1,292 @@
+token_id,token,stem,pos,tags
+0,Очень,очень,ADV,"Pos"
+1,слабенький,слабенький,ADJ,"Nom, Pos, Masc, Sing"
+2,фильм,фильм,NOUN,"Inan, Nom, Masc, Sing"
+3,о,о,ADP,
+4,легендарном,легендарный,ADJ,"Loc, Pos, Masc, Sing"
+5,после,посол,NOUN,"Anim, Loc, Masc, Sing"
+6,и,и,CCONJ,
+7,путешественнике,путешественник,NOUN,"Anim, Loc, Masc, Sing"
+8,.,.,PUNCT,
+9,Дело,дело,NOUN,"Inan, Nom, Neut, Sing"
+10,",",",",PUNCT,
+11,следовательно,следовательно,NOUN,"Inan, Nom, Masc, Sing"
+12,",",",",PUNCT,
+13,не,не,PART,"Neg"
+14,в,в,ADP,
+15,после,посол,NOUN,"Anim, Loc, Masc, Sing"
+16,.,.,PUNCT,
+17,В,в,ADP,
+18,ней,она,PRON,"Loc, Fem, Sing, 3, Prs"
+19,о,о,ADP,
+20,после,посол,NOUN,"Anim, Loc, Masc, Sing"
+21,говорится,говориться,VERB,"Imp, Ind, Sing, 3, Pres, Fin, Mid"
+22,следующее,следующий,ADJ,"Nom, Pos, Neut, Sing"
+23,Что,что,PRON,"Inan, Acc, Neut, Sing, Int"
+24,вы,вы,PRON,"Nom, Plur, 2, Prs"
+25,знаете,знать,VERB,"Imp, Ind, Plur, 2, Pres, Fin, Act"
+26,об,об,ADP,
+27,этом,этот,DET,"Loc, Masc, Sing, Dem"
+28,прославленном,прославленный,ADJ,"Loc, Pos, Masc, Sing"
+29,русском,русский,ADJ,"Loc, Pos, Masc, Sing"
+30,после,посол,NOUN,"Anim, Loc, Masc, Sing"
+31,?,?,PUNCT,
+32,Во,во,ADP,
+33,всех,весь,DET,"Loc, Plur, Tot"
+34,информационных,информационный,ADJ,"Loc, Pos, Plur"
+35,сообщениях,сообщение,NOUN,"Inan, Loc, Neut, Plur"
+36,об,об,ADP,
+37,этом,этот,DET,"Loc, Masc, Sing, Dem"
+38,после,посол,NOUN,"Anim, Loc, Masc, Sing"
+39,упоминается,упоминаться,VERB,"Imp, Ind, Sing, 3, Pres, Fin, Mid"
+40,имя,имя,NOUN,"Inan, Nom, Neut, Sing"
+41,российского,российский,ADJ,"Gen, Pos, Masc, Sing"
+42,президента,президент,NOUN,"Anim, Gen, Masc, Sing"
+43,.,.,PUNCT,
+44,«,«,PUNCT,
+45,Они,они,PRON,"Nom, Plur, 3, Prs"
+46,теперь,теперь,ADV,"Pos, Dem"
+47,служат,служить,VERB,"Imp, Ind, Plur, 3, Pres, Fin, Act"
+48,гайдуками,гайдук,NOUN,"Anim, Ins, Masc, Plur"
+49,",",",",PUNCT,
+50,или,или,CCONJ,
+51,держимордами,держиморда,NOUN,"Anim, Ins, Masc, Plur"
+52,при,при,ADP,
+53,каком-то,какой-то,DET,"Loc, Masc, Sing, Ind"
+54,после,посол,NOUN,"Anim, Loc, Masc, Sing"
+55,...,...,PUNCT,
+56,»,»,PUNCT,
+57,После,после,ADP,
+58,его,он,PRON,"Gen, Masc, Sing, 3, Prs"
+59,использования,использование,NOUN,"Inan, Gen, Neut, Sing"
+60,боли,боль,NOUN,"Inan, Gen, Fem, Sing"
+61,не,не,PART,"Neg"
+62,ощутите,ощутить,VERB,"Perf, Ind, Plur, 2, Fut, Fin, Act"
+63,несколько,несколько,NUM,"Acc, Word, Card"
+64,лет,год,NOUN,"Inan, Gen, Masc, Plur"
+65,!,!,PUNCT,
+66,После,после,ADP,
+67,того,то,PRON,"Inan, Gen, Neut, Sing, Dem"
+68,",",",",PUNCT,
+69,как,как,SCONJ,
+70,посетил,посетить,VERB,"Perf, Masc, Ind, Sing, Past, Fin, Act"
+71,столько,столько,NUM,"Acc, Word, Card"
+72,городов,город,NOUN,"Inan, Gen, Masc, Plur"
+73,",",",",PUNCT,
+74,они,они,PRON,"Nom, Plur, 3, Prs"
+75,",",",",PUNCT,
+76,наверно,наверно,ADV,"Pos"
+77,уже,уже,ADV,"Pos"
+78,все,все,PRON,"Anim, Nom, Plur, Tot"
+79,путаются,путаться,VERB,"Imp, Ind, Plur, 3, Pres, Fin, Mid"
+80,)),)),SYM,
+81,После,после,ADP,
+82,посещения,посещение,NOUN,"Inan, Gen, Neut, Sing"
+83,этого,этот,DET,"Gen, Masc, Sing, Dem"
+84,музея,музей,NOUN,"Inan, Gen, Masc, Sing"
+85,испытываешь,испытывать,VERB,"Imp, Ind, Sing, 2, Pres, Fin, Act"
+86,колоссальное,колоссальный,ADJ,"Acc, Pos, Neut, Sing"
+87,потрясение,потрясение,NOUN,"Inan, Acc, Neut, Sing"
+88,!,!,PUNCT,
+89,А,а,CCONJ,
+90,третье,третий,ADJ,"Nom, Neut, Sing, Word, Ord"
+91,-,-,PUNCT,
+92,попробуй,попробовать,VERB,"Perf, Imp, Sing, 2, Fin, Act"
+93,найти,найти,VERB,"Perf, Inf, Act"
+94,работу,работа,NOUN,"Inan, Acc, Fem, Sing"
+95,после,после,ADP,
+96,,45,NUM,"Digit, Card"
+97,-,-,PUNCT,
+98,,50,NUM,"Digit, Card"
+99,...,...,PUNCT,
+100,После,после,ADP,
+101,этого,это,PRON,"Inan, Gen, Neut, Sing, Dem"
+102,-,-,PUNCT,
+103,опять,опять,ADV,"Pos"
+104,моем,мыть,VERB,"Imp, Ind, Plur, 1, Pres, Fin, Act"
+105,и,и,CCONJ,
+106,режем,резать,VERB,"Imp, Ind, Plur, 1, Pres, Fin, Act"
+107,в,в,ADP,
+108,произвольном,произвольный,ADJ,"Loc, Pos, Masc, Sing"
+109,порядке,порядок,NOUN,"Inan, Loc, Masc, Sing"
+110,.,.,PUNCT,
+111,О,о,ADP,
+112,существовании,существование,NOUN,"Inan, Loc, Neut, Sing"
+113,отравленных,отравить,VERB,"Perf, Gen, Plur, Past, Part, Pass"
+114,посылок,посылка,NOUN,"Inan, Gen, Fem, Plur"
+115,стало,стать,VERB,"Perf, Neut, Ind, Sing, Past, Fin, Act"
+116,известно,известный,ADJ,"Pos, Neut, Sing, Short"
+117,после,после,ADP,
+118,анонимного,анонимный,ADJ,"Gen, Pos, Masc, Sing"
+119,звонка,звонок,NOUN,"Inan, Gen, Masc, Sing"
+120,в,в,ADP,
+121,Скотланд-Ярд,Скотланд-Ярд,PROPN,"Inan, Acc, Masc, Com, Sing"
+122,в,в,ADP,
+123,пятницу,пятница,NOUN,"Inan, Acc, Fem, Sing"
+124,.,.,PUNCT,
+125,После,после,ADP,
+126,этого,это,PRON,"Inan, Gen, Neut, Sing, Dem"
+127,Петя,Петя,PROPN,"Anim, Nom, Masc, Giv, Sing"
+128,с,с,ADP,
+129,видом,вид,NOUN,"Inan, Ins, Masc, Sing"
+130,человека,человек,NOUN,"Anim, Gen, Masc, Sing"
+131,",",",",PUNCT,
+132,исполнившего,исполнить,VERB,"Perf, Gen, Masc, Sing, Past, Part, Act"
+133,долг,долг,NOUN,"Inan, Acc, Masc, Sing"
+134,",",",",PUNCT,
+135,уселся,усесться,VERB,"Perf, Masc, Ind, Sing, Past, Fin, Mid"
+136,нога,нога,NOUN,"Inan, Nom, ADV, Fem, Sing"
+137,на,на,ADP,
+138,ногу,нога,NOUN,"Inan, Acc, Fem, Sing"
+139,в,в,ADP,
+140,кресло,кресло,NOUN,"Inan, Acc, Neut, Sing"
+141,и,и,CCONJ,
+142,развернул,развернуть,VERB,"Perf, Masc, Ind, Sing, Past, Fin, Act"
+143,«,«,PUNCT,
+144,Огонек,Огонек,PROPN,"Inan, Acc, Masc, Pro, Sing"
+145,»,»,PUNCT,
+146,.,.,PUNCT,
+147,Как,как,ADV,"Pos, Int"
+148,после,после,ADP,
+149,фен,фен,NOUN,
+150,наркотика,наркотик,NOUN,"Inan, Gen, Masc, Sing"
+151,восстановить,восстановить,VERB,"Perf, Yes, Inf, Act"
+152,организм,организм,NOUN,"Inan, Acc, Masc, Sing"
+153,и,и,CCONJ,
+154,что,что,PRON,"Inan, Acc, Neut, Sing, Int"
+155,надо,надо,VERB,
+156,кушать,кушать,VERB,"Imp, Inf, Act"
+157,и,и,CCONJ,
+158,пить,пить,VERB,"Imp, Inf, Act"
+159,?,?,PUNCT,
+160,Если,если,SCONJ,
+161,и,и,PART,
+162,после,после,ADP,
+163,,2,NUM,"Digit, Card"
+164,лет,год,NOUN,"Inan, Gen, Masc, Plur"
+165,проблема,проблема,NOUN,"Inan, Nom, Fem, Sing"
+166,сохранится,сохраниться,VERB,"Perf, Ind, Sing, 3, Fut, Fin, Mid"
+167,",",",",PUNCT,
+168,то,то,SCONJ,
+169,ждут,ждать,VERB,"Imp, Ind, Plur, 3, Pres, Fin, Act"
+170,,3,NUM,"Digit, Card"
+171,лет,год,NOUN,"Inan, Gen, Masc, Plur"
+172,.,.,PUNCT,
+173,Если,если,SCONJ,
+174,после,после,ADP,
+175,определённой,определенный,ADJ,"Gen, Pos, Fem, Sing"
+176,-,-,PUNCT,
+177,тогда,тогда,ADV,"Pos, Dem"
+178,на,на,ADP,
+179,время,время,NOUN,"Inan, Acc, Neut, Sing"
+180,её,она,PRON,"Acc, Fem, Sing, 3, Prs"
+181,исключите,исключить,VERB,"Perf, Imp, Plur, 2, Fin, Act"
+182,.,.,PUNCT,
+183,После,после,ADP,
+184,«,«,PUNCT,
+185,Омеза,омез,NOUN,"Inan, Gen, Masc, Sing"
+186,»,»,PUNCT,
+187,её,она,PRON,"Acc, Fem, Sing, 3, Prs"
+188,тошнит,тошнить,VERB,"Imp, Ind, Sing, 3, Pres, Fin, Act"
+189,.,.,PUNCT,
+190,И,и,CCONJ,
+191,после,после,ADV,"Pos"
+192,вы,вы,PRON,"Nom, Plur, 2, Prs"
+193,удивляетесь,удивляться,VERB,"Imp, Ind, Plur, 2, Pres, Fin, Mid"
+194,",",",",PUNCT,
+195,почему,почему,ADV,"Pos, Rel"
+196,она,она,PRON,"Nom, Fem, Sing, 3, Prs"
+197,не,не,PART,"Neg"
+198,хочет,хотеть,VERB,"Imp, Ind, Sing, 3, Pres, Fin, Act"
+199,быть,быть,AUX,"Imp, Inf, Act"
+200,с,с,ADP,
+201,вами,вы,PRON,"Ins, Plur, 2, Prs"
+202,?,?,PUNCT,
+203,После,после,ADV,"Pos"
+204,и,и,PART,
+205,на,на,ADP,
+206,правой,правый,ADJ,"Loc, Pos, Fem, Sing"
+207,руке,рука,NOUN,"Inan, Loc, Fem, Sing"
+208,появилась,появиться,VERB,"Perf, Fem, Ind, Sing, Past, Fin, Mid"
+209,.,.,PUNCT,
+210,Слово,слово,NOUN,"Inan, Nom, Neut, Sing"
+211,«,«,PUNCT,
+212,антоним,антоним,NOUN,"Inan, Nom, Masc, Sing"
+213,»,»,PUNCT,
+214,происходит,происходить,VERB,"Imp, Ind, Sing, 3, Pres, Fin, Act"
+215,от,от,ADP,
+216,греч.,греческий,ADJ,"Yes"
+217,anti,anti,X,"Yes"
+218,-,-,PUNCT,
+219,--,--,PUNCT,
+220,«,«,PUNCT,
+221,против,против,ADV,"Pos"
+222,»,»,PUNCT,
+223,и,и,CCONJ,
+224,onyma,onyma,X,"Yes"
+225,--,--,PUNCT,
+226,«,«,PUNCT,
+227,имя,имя,NOUN,"Inan, Nom, Neut, Sing"
+228,»,»,PUNCT,
+229,,::,PUNCT,
+230,горячий,горячий,ADJ,"Nom, Pos, Masc, Sing"
+231,--,--,PUNCT,
+232,холодный,холодный,ADJ,"Nom, Pos, Masc, Sing"
+233,",",",",PUNCT,
+234,горе,горе,NOUN,"Inan, Nom, Neut, Sing"
+235,--,--,PUNCT,
+236,радость,радость,NOUN,"Inan, Nom, Fem, Sing"
+237,",",",",PUNCT,
+238,враг,враг,NOUN,"Anim, Nom, Masc, Sing"
+239,--,--,PUNCT,
+240,друг,друг,NOUN,"Anim, Nom, Masc, Sing"
+241,",",",",PUNCT,
+242,мало,мало,NUM,"Nom, Word, Card"
+243,--,--,PUNCT,
+244,много,много,NUM,"Nom, Word, Card"
+245,",",",",PUNCT,
+246,всегда,всегда,ADV,"Pos, Tot"
+247,--,--,PUNCT,
+248,никогда,никогда,ADV,"Pos, Neg"
+249,",",",",PUNCT,
+250,до,до,ADP,
+251,--,--,PUNCT,
+252,после,после,ADV,"Pos"
+253,.,.,PUNCT,
+254,«,«,PUNCT,
+255,--,--,PUNCT,
+256,Вы,вы,PRON,"Nom, Plur, 2, Prs"
+257,сами,сам,DET,"Nom, Plur, Emp"
+258,какое-то,какой-то,DET,"Acc, Neut, Sing, Ind"
+259,письмо,письмо,NOUN,"Inan, Acc, Neut, Sing"
+260,вчера,вчера,ADV,"Pos"
+261,вечером,вечер,NOUN,"Inan, Ins, Masc, Sing"
+262,читали,читать,VERB,"Imp, Ind, Plur, Past, Fin, Act"
+263,",",",",PUNCT,
+264,--,--,PUNCT,
+265,говорил,говорить,VERB,"Imp, Masc, Ind, Sing, Past, Fin, Act"
+266,Захар,Захар,PROPN,"Anim, Nom, Masc, Giv, Sing"
+267,",",",",PUNCT,
+268,--,--,PUNCT,
+269,а,а,CCONJ,
+270,после,после,ADV,"Pos"
+271,я,я,PRON,"Nom, Sing, 1, Prs"
+272,не,не,PART,"Neg"
+273,видал,видать,VERB,"Imp, Masc, Ind, Sing, Past, Fin, Act"
+274,.,.,PUNCT,
+275,Деятельность,деятельность,NOUN,"Inan, Nom, Fem, Sing"
+276,Иллариона,Илларион,PROPN,"Anim, Gen, Masc, Giv, Sing"
+277,протекала,протекать,VERB,"Imp, Fem, Ind, Sing, Past, Fin, Act"
+278,в,в,ADP,
+279,середине,середина,NOUN,"Inan, Loc, Fem, Sing"
+280,XI,XI,ADJ,"Roman, Ord"
+281,века,век,NOUN,"Inan, Gen, Masc, Sing"
+282,",",",",PUNCT,
+283,но,но,CCONJ,
+284,плоды,плод,NOUN,"Inan, Nom, Masc, Plur"
+285,ее,ее,DET,"Yes, Prs"
+286,ощущались,ощущаться,VERB,"Imp, Ind, Plur, Past, Fin, Mid"
+287,и,и,PART,
+288,долго,долго,ADV,"Pos"
+289,после,после,ADV,"Pos"
+290,.,.,PUNCT,
