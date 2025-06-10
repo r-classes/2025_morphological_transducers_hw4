@@ -2,9 +2,9 @@
 
 *Дедлайн: 19 июня 23:59.*
 
-Перед вами gold разметка некоторых предложений из [UD_Russian-Taiga](https://github.com/UniversalDependencies/UD_Russian-Taiga). А в words.lexd содержатся разборы почти всех слов из этих предложений (некоторым словам соответствует несколько разборов).
+Перед вами [gold разметка](https://github.com/r-classes/2025_morphological_transducers_hw4/blob/main/gold_standard.csv) некоторых предложений из [UD_Russian-Taiga](https://github.com/UniversalDependencies/UD_Russian-Taiga). А в [words.lexd](https://github.com/r-classes/2025_morphological_transducers_hw4/blob/main/words.lexd) содержатся разборы почти всех слов из этих предложений (некоторым словам соответствует несколько разборов).
 
-**1.** [Получите разбор предложений](https://agricolamz.github.io/2025_morphological_transducers/08_coverage.html#:~:text=%60%60%60%7Bshell%7D-,%24%20cat%20corpus.txt%20%7C%20hfst%2Dproc%20%2DC%20analyzer.hfstol,-%60%60%60), используя words.lexd (1 балл), сохраните в файл `analysis_01.txt`
+**1.** [Получите разбор предложений](https://agricolamz.github.io/2025_morphological_transducers/08_coverage.html#:~:text=%60%60%60%7Bshell%7D-,%24%20cat%20corpus.txt%20%7C%20hfst%2Dproc%20%2DC%20analyzer.hfstol,-%60%60%60) из корпуса `corpus_posle.txt`, используя `words.lexd` (1 балл), сохраните в файл `Surname_hw4_analysis_01.txt`
 
 **2.** [Посчитайте метрики качества](https://github.com/agricolamz/2025_morphological_transducers/blob/main/examples/08_quality_metrics.ipynb)
 - покрытие (0,5 балла)
@@ -14,7 +14,7 @@
 
 **3.** Посчитайте метрики качества с удалением эффекта частотности (при котором каждая пара токен-полный_разбор в gold разметке учитывается только один раз) (2 балла)
 
-**4.** Напишите правила для снятия омонимии слова "после". Сохраните в файл `Surname_hw4_04.cg3`. (при разрешении всех случаев - 3 балла, возможен частичный)
+**4.** Напишите правила для снятия омонимии слова "после". Сохраните правила в файл `Surname_hw4_04.cg3` и разбор в файл `Surname_hw4_analysis_04.txt`(возможен частичный балл, при разрешении всех случаев - 3 балла)
 
 **5.** Посчитайте метрики качества заново
 - для всех слов (0,5 балла)
@@ -30,6 +30,8 @@
 ### Формат сдачи:
 - `Surname_hw4_04.cg3`
 - `Surname_hw4.ipynb` / `Surname_hw4.sh` со всеми шагами и комментариями
+- `Surname_hw4_analysis_01.txt`
+- `Surname_hw4_analysis_04.txt`
 - *`Surname_hw4_06.cg3`
 
 ### Комментарии:
